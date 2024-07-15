@@ -4,9 +4,6 @@ build/
 !**/src/test/**/build/
 
 ### STS ###
-.bin
-.lock
-.erd
 .apt_generated
 .factorypath
 .springBeans
